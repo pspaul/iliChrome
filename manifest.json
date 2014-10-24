@@ -1,0 +1,25 @@
+{
+	"name": "Ain't Nobody Got Time Fo Deadlines",
+	"version": "1.0",
+	"manifest_version": 2,
+	"description" : "For those last minute workers and procrastinators",
+	"icons": {
+		"16": "icons/aint_16.png",
+		"48": "icons/aint_48.png",
+		"128": "icons/aint_128.png"
+	},
+	
+	"background": {
+		"scripts": ["background.js"],
+		"persistent": false
+	},
+
+	"content_scripts": [{
+		"matches": ["http://*/*ilias.php*", "https://*/*ilias.php*"],
+		"js": ["content.js"]
+	}],
+	
+	"permissions" : [
+		"tabs"
+	]
+}
