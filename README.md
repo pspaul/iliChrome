@@ -10,10 +10,10 @@ https://www.dropbox.com/s/lz4mwdadp9fvce9/ili_chrome.crx
 
 ## Usage:
 
-- just visit the upload area of an exercise
-- the extension adds a button for every exercise unit
-- click one of these → the standard upload page appears
-- the extension added custom upload buttons, which work even after the deadline
+1 just visit the upload area of an exercise
+2 the extension adds a button for every exercise unit
+3 click one of these → the standard upload page appears
+4 the extension added custom upload buttons, which work even after the deadline
 
 
 
