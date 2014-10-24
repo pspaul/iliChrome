@@ -1,6 +1,6 @@
-# Ilias-Anti-Deadline Extension for Chrome
+# ILIAS-Anti-Deadline Extension for Chrome
 
-Here's the source code for a Chrome-Extension that helps you uploading your homework AFTER the deadline.
+Here's the source code for a Chrome-Extension that helps you uploading your homework after the deadline.
 
 
 ## Download:
