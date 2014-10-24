@@ -26,3 +26,9 @@ https://www.dropbox.com/s/lz4mwdadp9fvce9/ili_chrome.crx
 
 - delete files after the deadline
 - fake the upload's timestamp
+
+
+## Disclaimer
+
+I am not responsible for what YOU do with this extension.
+It is just for educational purpose, of course.
