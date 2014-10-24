@@ -12,5 +12,5 @@ https://www.dropbox.com/s/lz4mwdadp9fvce9/ili_chrome.crx?dl=0
 
 - just visit the upload area of an exercise
 - the extension adds a button for every exercise unit
-- click one of these → the standard upload page shows
-- here, the extension adds custom upload buttons, which work even after the deadline
+- click one of these → the standard upload page appears
+- the extension added custom upload buttons, which work even after the deadline
