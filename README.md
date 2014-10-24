@@ -5,7 +5,7 @@ Here's the source code for a Chrome-Extension that helps you uploading your home
 
 ## Download:
 
-https://www.dropbox.com/s/lz4mwdadp9fvce9/ili_chrome.crx?dl=0
+https://www.dropbox.com/s/lz4mwdadp9fvce9/ili_chrome.crx
 
 
 ## Usage:
@@ -14,3 +14,15 @@ https://www.dropbox.com/s/lz4mwdadp9fvce9/ili_chrome.crx?dl=0
 - the extension adds a button for every exercise unit
 - click one of these → the standard upload page appears
 - the extension added custom upload buttons, which work even after the deadline
+
+
+
+## What is working?
+
+- acces the upload form after the deadline
+- upload files after the deadline
+
+## What is not working?
+
+- delete files after the deadline
+- fake the upload's timestamp
